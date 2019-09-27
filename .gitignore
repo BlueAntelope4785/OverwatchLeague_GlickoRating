@@ -1,0 +1,7 @@
+# python cache
+__pycache__/
+# textoutputfile
+latest_ratings.txt
+# saved plots
+*.png
+*.ipynb
